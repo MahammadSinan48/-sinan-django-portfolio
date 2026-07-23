@@ -70,7 +70,7 @@ All administrative operations are performed without directly modifying source co
 
 ## 4. Dashboard Architecture
 
-Administrator
+``` Administrator
         │
         ▼
 Authentication
@@ -85,6 +85,7 @@ Content Analytics    Settings
         │
         ▼
 PostgreSQL Database
+```
 
 ## 5. Dashboard Layout
 

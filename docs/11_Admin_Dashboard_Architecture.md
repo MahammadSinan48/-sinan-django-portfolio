@@ -128,7 +128,7 @@ The dashboard is divided into independent modules.
 - Settings: Website configuration
 
 ## 7. Navigation Structure
-
+```
 Dashboard
 
 ├── Overview
@@ -158,7 +158,7 @@ Dashboard
 ├── Settings
 │
 └── Profile
-
+```
 ## 8. Dashboard Workflow
 
 Administrator
